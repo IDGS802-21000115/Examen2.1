@@ -1,0 +1,29 @@
+.product-detail {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .price {
+    font-weight: bold;
+    font-size: 1.5rem;
+    margin: 10px 0;
+  }
+  
+  .category {
+    font-size: 1rem;
+    color: #555;
+    margin-bottom: 20px;
+  }
+  
+  .rating {
+    color: gold;
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .buy-button {
+    padding: 10px 30px;
+    font-size: 1.2rem;
+    cursor: pointer;
+  }
+  
